@@ -1,6 +1,6 @@
 {
   "name": "@thenextgennexus/academic-research-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search arXiv, Google Scholar, and Wikipedia for academic papers and knowledge",
   "type": "module",
   "bin": {
@@ -36,5 +36,5 @@
     "type": "git",
     "url": "https://github.com/TheNextGenNexus/web-intelligence-mcp-servers"
   },
-  "mcpName": "io.github.thenextgennexus/academic-research-mcp-server"
+  "mcpName": "io.github.TheNextGenNexus/academic-research-mcp-server"
 }

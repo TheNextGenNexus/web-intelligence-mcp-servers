@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TheNextGenNexus/academic-research-mcp-server",
+  "description": "Search arXiv, Google Scholar, and Wikipedia for academic papers and knowledge",
+  "repository": {
+    "url": "https://github.com/TheNextGenNexus/web-intelligence-mcp-servers",
+    "source": "github",
+    "subfolder": "servers/academic-research-mcp-server"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@thenextgennexus/academic-research-mcp-server",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "description": "Your Apify API token for accessing web scraping actors",
+          "isRequired": true,
+          "format": "string",
+          "isSecret": true,
+          "name": "APIFY_TOKEN"
+        }
+      ]
+    }
+  ]
+}

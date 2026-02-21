@@ -1,6 +1,6 @@
 {
   "name": "@thenextgennexus/news-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get latest news from AP, BBC, NPR, Hacker News, and Google News",
   "type": "module",
   "bin": {
@@ -36,5 +36,5 @@
     "type": "git",
     "url": "https://github.com/TheNextGenNexus/web-intelligence-mcp-servers"
   },
-  "mcpName": "io.github.thenextgennexus/news-mcp-server"
+  "mcpName": "io.github.TheNextGenNexus/news-mcp-server"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@thenextgennexus/developer-tools-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access GitHub repos, npm/PyPI packages, Stack Overflow, arXiv, and Google Scholar",
   "type": "module",
   "bin": {
@@ -36,5 +36,5 @@
     "type": "git",
     "url": "https://github.com/TheNextGenNexus/web-intelligence-mcp-servers"
   },
-  "mcpName": "io.github.thenextgennexus/developer-tools-mcp-server"
+  "mcpName": "io.github.TheNextGenNexus/developer-tools-mcp-server"
 }

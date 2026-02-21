@@ -1,6 +1,6 @@
 {
   "name": "@thenextgennexus/seo-web-analysis-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run Lighthouse audits, check SSL certificates, detect tech stacks, query WHOIS and DNS records",
   "type": "module",
   "bin": {
@@ -36,5 +36,5 @@
     "type": "git",
     "url": "https://github.com/TheNextGenNexus/web-intelligence-mcp-servers"
   },
-  "mcpName": "io.github.thenextgennexus/seo-web-analysis-mcp-server"
+  "mcpName": "io.github.TheNextGenNexus/seo-web-analysis-mcp-server"
 }
