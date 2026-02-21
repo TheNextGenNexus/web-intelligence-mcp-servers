@@ -34,6 +34,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheNextGenNexus/seo-web-analysis-mcp-servers"
-  }
+    "url": "https://github.com/TheNextGenNexus/web-intelligence-mcp-servers"
+  },
+  "mcpName": "io.github.thenextgennexus/seo-web-analysis-mcp-server"
 }
