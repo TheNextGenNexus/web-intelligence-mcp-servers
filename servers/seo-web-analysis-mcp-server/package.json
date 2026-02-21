@@ -1,5 +1,5 @@
 {
-  "name": "@nexgendata/seo-web-analysis-mcp-server",
+  "name": "@thenextgennexus/seo-web-analysis-mcp-server",
   "version": "1.0.0",
   "description": "Run Lighthouse audits, check SSL certificates, detect tech stacks, query WHOIS and DNS records",
   "type": "module",

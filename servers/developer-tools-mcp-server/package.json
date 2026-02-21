@@ -1,5 +1,5 @@
 {
-  "name": "@nexgendata/developer-tools-mcp-server",
+  "name": "@thenextgennexus/developer-tools-mcp-server",
   "version": "1.0.0",
   "description": "Access GitHub repos, npm/PyPI packages, Stack Overflow, arXiv, and Google Scholar",
   "type": "module",

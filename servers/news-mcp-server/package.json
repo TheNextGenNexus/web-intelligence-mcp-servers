@@ -1,5 +1,5 @@
 {
-  "name": "@nexgendata/news-mcp-server",
+  "name": "@thenextgennexus/news-mcp-server",
   "version": "1.0.0",
   "description": "Get latest news from AP, BBC, NPR, Hacker News, and Google News",
   "type": "module",

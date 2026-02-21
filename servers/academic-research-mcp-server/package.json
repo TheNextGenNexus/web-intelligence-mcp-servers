@@ -1,5 +1,5 @@
 {
-  "name": "@nexgendata/academic-research-mcp-server",
+  "name": "@thenextgennexus/academic-research-mcp-server",
   "version": "1.0.0",
   "description": "Search arXiv, Google Scholar, and Wikipedia for academic papers and knowledge",
   "type": "module",
