@@ -1,6 +1,6 @@
 # Academic Research MCP Server
 
-Search arXiv, Google Scholar, and Wikipedia for academic papers and knowledge — powered by [nexgendata](https://apify.com/nexgendata) on Apify.
+Search arXiv, Google Scholar, and Wikipedia for academic papers and knowledge — powered by [nexgendata](https://apify.com/nexgendata?fpr=2ayu9b) on Apify.
 
 ## Quick Start
 
@@ -64,7 +64,7 @@ This MCP server acts as a local stdio bridge to the [nexgendata Apify MCP endpoi
 
 ## Links
 
-- [Apify Store](https://apify.com/nexgendata/academic-research-mcp-server)
+- [Apify Store](https://apify.com/nexgendata/academic-research-mcp-server?fpr=2ayu9b)
 - [GitHub Repository](https://github.com/TheNextGenNexus/web-intelligence-mcp-servers)
 - [nexgendata Blog](https://thenextgennexus.com)
 
